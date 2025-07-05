@@ -19,5 +19,3 @@ Senior Systems Engineer · dotfile artisan · Neovim aficionado
 - **Editor & Config:** [neovim + Lua (Lazy.nvim)](https://github.com/ThorstenRhau/neovim)
 - **Dotfiles:** [ThorstenRhau/dotfiles](https://github.com/ThorstenRhau/dotfiles)
 - **Email:** [thorsten@rhau.se](mailto:thorsten@rhau.se)
-
----
