@@ -24,6 +24,5 @@ Senior Systems Engineer · dotfile artisan · Neovim aficionado
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThorstenRhau&layout=compact&langs_count=6)
-
-_Last updated: **<!--UPDATEDATE-->**_
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThorstenRhau&layout=compact&langs_count=6)  
+![Stats](https://github-readme-stats.vercel.app/api?username=ThorstenRhau&show_icons=true&count_private=true&theme=default)
