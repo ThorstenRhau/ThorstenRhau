@@ -1,22 +1,24 @@
-# Hi there, I'm Thorsten 👋
+# Hi there, I’m Thorsten 👋
 
-Senior Systems Developer, dotfile artisan and Neovim enjoyer from Sweden.
+Senior Systems Engineer · dotfile artisan · Neovim aficionado  
+🇸🇪 Swedish · 🇬🇧 English · 🇩🇪 German
 
-> Veteran systems engineer, fueled by strong coffee and stronger opinions by day.
-> Enjoyer of Neovim, gaming, BBQ, cooking, and fountain pens — explorer by night.
+---
 
-## About me
-- **Industry experience:** 30+ years in ICT, IT, and Telecom
-- **Focus areas:** Cloud-native transformation, Linux, Observability & Service Assurance
-- **Languages:** Swedish (native), English, German
+## 👨‍💻 About Me
+- **Experience:** 30 + years in ICT, IT & telecom  
+- **Focus:** Cloud-native transformation · Linux · Observability & service assurance  
+- **Hobbies:** Fountain pens · Baking · Reading · Craft beer · Gaming · Movie nights · Knife sharpening  
 
-## Tools
-- **Editor:** [Neovim + Lua (Lazy.nvim)](https://github.com/ThorstenRhau/neovim)
-- **Dotfiles:** [ThorstenRhau/dotfiles](https://github.com/ThorstenRhau/dotfiles)
+---
 
-## Contact
-- [LinkedIn](https://linkedin.com/in/thorstenrhau)
-- [thorsten@rhau.se](mailto:thorsten@rhau.se)
+## 🔧 Tools & Links
+- **Editor & Config:** [neovim + Lua (Lazy.nvim)](https://github.com/ThorstenRhau/neovim)  
+- **Dotfiles:** [ThorstenRhau/dotfiles](https://github.com/ThorstenRhau/dotfiles)  
+- **Email:** [thorsten@rhau.se](mailto:thorsten@rhau.se)  
 
-Thanks for stopping by!
+---
 
+## 📈 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThorstenRhau&layout=compact&langs_count=6)  
+![Stats](https://github-readme-stats.vercel.app/api?username=ThorstenRhau&show_icons=true&count_private=true&theme=default)
