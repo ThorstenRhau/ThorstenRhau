@@ -7,7 +7,7 @@ Languages: Swedish, English, German
 
 ## About
 
-- 25+ years in infrastructure, IT, and telecom
+- 25+ years in IT and telecom
 - Practical experience across operations, automation, and platform reliability
 - Maintainer of personal tooling around Neovim, dotfiles, terminal themes, and
   Markdown workflows
