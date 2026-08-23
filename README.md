@@ -12,6 +12,14 @@ Languages: Swedish, English, German
 - Maintainer of personal tooling around Neovim, dotfiles, terminal themes, and
   Markdown workflows
 
+## Current Projects
+
+- [Token](https://github.com/ThorstenRhau/token), a Neovim colorscheme with
+  dark and light variants plus matching themes for terminal tools and apps
+- [Rendr Markdown](https://rhau.se/rendr/), a native, local-first Markdown
+  preview companion for macOS. It is the first app I have taken from idea to
+  the [App Store](https://apps.apple.com/se/app/rendr-markdown/id6799048174).
+
 ## Current Interests
 
 - Cloud-native transformation
