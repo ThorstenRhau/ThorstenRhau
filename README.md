@@ -17,8 +17,9 @@ Neovim, dotfiles, terminal themes, and Markdown workflows.
 - [Token](https://github.com/ThorstenRhau/token), a Neovim colorscheme with dark
   and light variants plus matching themes for terminal tools and apps.
 - [Rendr Markdown](https://rhau.se/rendr/), a native, local-first Markdown
-  preview app for macOS. It's the first app I've taken from idea all the way to
-  the [App Store](https://apps.apple.com/se/app/rendr-markdown/id6799048174).
+  preview app for macOS, iPadOS, and iOS. It's the first app I've taken from
+  idea all the way to the
+  [App Store](https://apps.apple.com/app/rendr-markdown/id6799048174).
 
 ## Current interests
 
